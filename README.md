@@ -15,6 +15,8 @@ Versão original: [Desafio Accenture](https://github.com/zappaft/desafio-accentu
 >>cd backend
 >>
 >>yarn
+>>
+>>node main.js
 >>```
 >>Agora acesse a pasta frontend e abra o arquivo index.html e pronto.
 
@@ -47,6 +49,8 @@ Original(Team) version: [Desafio Accenture](https://github.com/zappaft/desafio-a
 >>cd backend
 >>
 >>yarn
+>>
+>>node main.js
 >>```
 >>On the frontend folder, open index.html and use it.
 
