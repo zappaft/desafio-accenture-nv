@@ -5,3 +5,8 @@ body {
 p {
     color: blanchedalmond;
 }
+
+.button {
+  width: 8rem;
+  height: 4rem;
+}

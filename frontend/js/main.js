@@ -10,7 +10,7 @@ var counterTime = 0.4;
 
 var codeToTranslate = '';
 
-const url = 'http://127.0.0.1:3000/traduzir'
+const url = 'http://localhost:3000/traduzir'
 
 function numberClick(number) {
   if (lastNumberClicked === number) {
